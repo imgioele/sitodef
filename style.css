@@ -1138,6 +1138,7 @@ header.hd-border.menu-sticky { box-shadow: none; }
 .grid__item { position: relative; cursor: pointer; }
 .grid__item-deco { position: relative; align-self: end; justify-self: end; }
 .grid__item-title { position: relative; }
+.grid .pieces { grid-area: 1 / 1 / 3 / 2; width: var(--pieces-width); height: calc(var(--pieces-width) * 1.3157); position: relative; justify-self: end; }
 .grid .piece { pointer-events: none; filter: grayscale(1); }
 .pieces { display: flex; flex-wrap: wrap; background-size: 100% auto; background-repeat: no-repeat; background-position: 0 0; }
 
