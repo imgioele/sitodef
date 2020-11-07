@@ -485,8 +485,8 @@ header.transparent .menu ul li a:hover, header.transparent .menu ul li:hover>a {
 header.header-black { background: rgba(0, 0, 0, 0.8); color: #fff; }
 header.header-black .logo a, header.header-black .menu li a { color: #fff; }
 header.header-black .menu li ul li a { color: #1a1a1a; }
-header.header-black .menu li a:hover, header.header-black .menu li:hover>a, header.header-black .menu li a.active { color: #fa7b80; }
-header.header-black .menu ul li a:hover, header.header-black .menu ul li:hover>a { background: #fa7b80; color: #fff; }
+header.header-black .menu li a:hover, header.header-black .menu li:hover>a, header.header-black .menu li a.active { color: #cc0000; }
+header.header-black .menu ul li a:hover, header.header-black .menu ul li:hover>a { background: #cc0000; color: #fff; }
 
 /*---- Header border ----*/
 header.hd-border { border-bottom: 1px solid rgba(26, 26, 26, 0.1); }
