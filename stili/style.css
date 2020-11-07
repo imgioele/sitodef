@@ -1049,7 +1049,7 @@ header.hd-border.menu-sticky { box-shadow: none; }
 .iq-blog-box .iq-blog-image img { width: 100%; }
 .iq-blog-detail { padding: 20px 15px 15px; background: #fff; }
 .iq-blog-detail a, .iq-blog-detail .blog-title a h4 { color: #1a1a1a; transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; }
-.iq-blog-detail a:hover, .iq-blog-detail .blog-title a:hover h4 { color: #fa7b80; }
+.iq-blog-detail a:hover, .iq-blog-detail .blog-title a:hover h4 { color: #cc0000; }
 .iq-blog-meta { margin: 15px 0 0px; border-top: 1px solid #ececec; padding-top: 15px; }
 .iq-blog-meta ul li { margin: 0 15px 0 0; padding: 0; font-size: 16px; display: inline-block; }
 
