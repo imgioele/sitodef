@@ -67,7 +67,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 body { font-family: 'Open Sans', sans-serif; font-weight: normal; font-style: normal; font-size: 14px; line-height: 24px; color: #777777; overflow-x: hidden; }
 a, .button { transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; color: #1a1a1a; }
 a:focus { text-decoration: none !important; }
-a:focus, a:hover { color: #fa7b80; text-decoration: none !important; }
+a:focus, a:hover { color: #cc0000; text-decoration: none !important; }
 a, .button, input { outline: medium none !important; color: #777777; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Abel', sans-serif; font-weight: normal; color: #1a1a1a; margin-top: 0px; margin-bottom: 0px; }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; }
