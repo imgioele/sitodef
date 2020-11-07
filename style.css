@@ -960,7 +960,7 @@ header.hd-border.menu-sticky { box-shadow: none; }
 .iq-footer3 .iq-post li { width: 100%; float: left; margin-top: 0px; border-bottom: 1px solid rgba(255, 255, 255, 0.2); display: inline-block; margin-bottom: 15px; padding-bottom: 15px; }
 .iq-footer3 .post-blog { display: table-cell; }
 .iq-footer3 .post-blog a { vertical-align: top; font-size: 14px; color: #fff; }
-.iq-footer3 .post-blog a:hover { color: #fa7b80; }
+.iq-footer3 .post-blog a:hover { color: #8fb93c; }
 .iq-footer3 .post-blog .iq-date { font-size: 13px; display: table; }
 .iq-footer3 .post-blog i { font-size: 14px; }
 .iq-footer3 .iq-post li:last-child { border-bottom: none; }
